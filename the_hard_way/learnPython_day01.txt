@@ -1,0 +1,14 @@
+今天的收获总结
+Python if_else 
+python range() 函数的用法：http://www.cnblogs.com/buro79xxd/archive/2011/05/23/2054493.html 
+Python 平方或者次方表示方法：3**2,3**3,3**4等，也可以用pow()函数
+
+
+
+
+
+git部分：
+	a. 如果master上没有添加文件的时候，这时创建branch 会导致master消失，很难切换回来。所以先在master 上面添加文件，然后再创建branch
+	b. 在branch dev 上的时候，需要将两个文件都add 和commit 然后才能切换到master ,进行merge
+
+

@@ -1,0 +1,15 @@
+the_count = [1,2,3,4,5]
+fruits = ['apples','oranges','pears','apricots']
+change = [1,'pennies',2,'dimes',3,'quarters']
+for number in the_count:
+    print("this is count" ,{number})
+for fruit in fruits:
+    print("a fruit of type:",{fruit})
+for i in change:
+    print("I got ",{i})
+elements = []
+for i in range(0,6):
+    print("adding",{i}," to the list")
+    elements.append(i)
+for i in elements:
+    print("element was :",{i})

@@ -1,0 +1,5 @@
+n = int(input("请输入n的数据："))
+arr = map(int, input("请输入数组的数据：").split(" "))
+B = set(arr)
+listA = sorted(B)
+print(listA[len(listA)-2])
